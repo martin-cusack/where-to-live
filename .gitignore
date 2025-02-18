@@ -1,6 +1,6 @@
 # don't want to commit data to github
 *.csv
-
+results/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
